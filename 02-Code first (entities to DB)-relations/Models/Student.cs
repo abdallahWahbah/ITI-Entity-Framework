@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace _02_entities_to_DB.Models
 {
     [Table("Students")] // the table in DB will ne "Students" not "Student"
-    internal class Student
+    public class Student
     {
         public int StdId { get; set; } // not name convension // not primary key >>> you can use data annotation [Kye] or fluent api
         //[Column("DbName")] // if you used this annotation, the Name column will be DbName in the DB

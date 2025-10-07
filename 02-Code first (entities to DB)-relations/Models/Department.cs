@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _02_entities_to_DB.Models
 {
-    internal class Department
+    public class Department
     {
         public int Id { get; set; } // must be "Id" or "DepartmentId" to be a primary key (naming convension) 
 

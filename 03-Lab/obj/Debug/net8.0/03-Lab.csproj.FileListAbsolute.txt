@@ -150,3 +150,4 @@ C:\Users\abdow\OneDrive\Desktop\projects\5-Entity Framework\03-Lab\obj\Debug\net
 C:\Users\abdow\OneDrive\Desktop\projects\5-Entity Framework\03-Lab\obj\Debug\net8.0\03-Lab.pdb
 C:\Users\abdow\OneDrive\Desktop\projects\5-Entity Framework\03-Lab\obj\Debug\net8.0\03-Lab.genruntimeconfig.cache
 C:\Users\abdow\OneDrive\Desktop\projects\5-Entity Framework\03-Lab\obj\Debug\net8.0\ref\03-Lab.dll
+C:\Users\abdow\OneDrive\Desktop\projects\5-Entity Framework\03-Lab\obj\Debug\net8.0\03-Lab.sourcelink.json

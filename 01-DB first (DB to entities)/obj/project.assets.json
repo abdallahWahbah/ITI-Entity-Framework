@@ -4727,11 +4727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\01-\\01-DB first (DB to entities).csproj",
+      "projectUniqueName": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\01-DB first (DB to entities)\\01-DB first (DB to entities).csproj",
       "projectName": "01-DB first (DB to entities)",
-      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\01-\\01-DB first (DB to entities).csproj",
+      "projectPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\01-DB first (DB to entities)\\01-DB first (DB to entities).csproj",
       "packagesPath": "C:\\Users\\abdow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\01-\\obj\\",
+      "outputPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\01-DB first (DB to entities)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

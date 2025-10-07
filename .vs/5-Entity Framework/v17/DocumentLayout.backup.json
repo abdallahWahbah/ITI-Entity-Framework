@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Migrations\\20251006211114_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03-Lab\\Migrations\\20251006211114_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35E9526E-93AD-1237-E63A-8DB3A4BF8DBF}|02-Code first (entities to DB)-relations\\02-Code first (entities to DB)-relations.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\5-entity framework\\02-code first (entities to db)-relations\\context\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E9526E-93AD-1237-E63A-8DB3A4BF8DBF}|02-Code first (entities to DB)-relations\\02-Code first (entities to DB)-relations.csproj|solutionrelative:02-code first (entities to db)-relations\\context\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8752CEB-8DB0-42AB-8FD3-5A0D37BEBB46}|03-Lab\\03-Lab.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\5-entity framework\\03-lab\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8752CEB-8DB0-42AB-8FD3-5A0D37BEBB46}|03-Lab\\03-Lab.csproj|solutionrelative:03-lab\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35E9526E-93AD-1237-E63A-8DB3A4BF8DBF}|02-Code first (entities to DB)-relations\\02-Code first (entities to DB)-relations.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\5-entity framework\\02-code first (entities to db)-relations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E9526E-93AD-1237-E63A-8DB3A4BF8DBF}|02-Code first (entities to DB)-relations\\02-Code first (entities to DB)-relations.csproj|solutionrelative:02-code first (entities to db)-relations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E9526E-93AD-1237-E63A-8DB3A4BF8DBF}|02-Code first (entities to DB)-relations\\02-Code first (entities to DB)-relations.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\5-entity framework\\02-code first (entities to db)-relations\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E9526E-93AD-1237-E63A-8DB3A4BF8DBF}|02-Code first (entities to DB)-relations\\02-Code first (entities to DB)-relations.csproj|solutionrelative:02-code first (entities to db)-relations\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE296A2F-9B52-4ED0-81C9-5F1F8C028CAE}|04-\\04-.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\5-entity framework\\04-\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE296A2F-9B52-4ED0-81C9-5F1F8C028CAE}|04-\\04-.csproj|solutionrelative:04-\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,44 +25,78 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 182,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 223,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\02-Code first (entities to DB)-relations\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "02-Code first (entities to DB)-relations\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\02-Code first (entities to DB)-relations\\Models\\Department.cs",
+              "RelativeToolTip": "02-Code first (entities to DB)-relations\\Models\\Department.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:07:46.614Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "03-Lab\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "03-Lab\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\02-Code first (entities to DB)-relations\\Program.cs",
+              "RelativeDocumentMoniker": "02-Code first (entities to DB)-relations\\Program.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\02-Code first (entities to DB)-relations\\Program.cs",
+              "RelativeToolTip": "02-Code first (entities to DB)-relations\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwDMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T21:10:24.73Z",
+              "WhenOpened": "2025-10-07T12:57:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\02-Code first (entities to DB)-relations\\Context\\ITIContext.cs",
+              "RelativeDocumentMoniker": "02-Code first (entities to DB)-relations\\Context\\ITIContext.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\02-Code first (entities to DB)-relations\\Context\\ITIContext.cs",
+              "RelativeToolTip": "02-Code first (entities to DB)-relations\\Context\\ITIContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:39:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\04-\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "04-\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\04-\\Models\\Person.cs",
+              "RelativeToolTip": "04-\\Models\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:10:43.887Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 69,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 46,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251006211114_done.cs",
-              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Migrations\\20251006211114_done.cs",
-              "RelativeDocumentMoniker": "03-Lab\\Migrations\\20251006211114_done.cs",
-              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Migrations\\20251006211114_done.cs",
-              "RelativeToolTip": "03-Lab\\Migrations\\20251006211114_done.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T21:11:14.325Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

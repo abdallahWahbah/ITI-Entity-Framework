@@ -1,4 +1,5 @@
-﻿using _02_entities_to_DB.Models;
+﻿using _02_entities_to_DB.Config;
+using _02_entities_to_DB.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ namespace _02_entities_to_DB.Context
 {
     internal class ITIContext: DbContext
     {
+        // to migrate your entity to DB, you must wrap it with DbSet<YourEntity>
         public DbSet<Department> Departments { get; set; } // "Departments" is the table name 
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
@@ -17,7 +19,9 @@ namespace _02_entities_to_DB.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=.;database=DbTest;integrated security=true; trust server certificate=true"); // write this string connection by yourself or get it from server explorer
+            optionsBuilder
+                .UseLazyLoadingProxies()
+                .UseSqlServer("Server=.;database=DbTest;integrated security=true; trust server certificate=true"); // write this string connection by yourself or get it from server explorer
             base.OnConfiguring(optionsBuilder);
         }
         // after finishing your work
@@ -97,6 +101,16 @@ namespace _02_entities_to_DB.Context
 
                 //course.Ignore(x => x.xyz); // don't create column for "xyz" using fluent api
             });
+
+
+
+            ////// in real-world projects, we make a folder for configurations for entities and import it in this function
+            ////modelBuilder.ApplyConfiguration<Student>(new StudentConfig());
+            
+            //// if you have too many configuration files, it's not reasonable to copy-paste the line above 100 times for example
+            //// you can use "ApplyConfigurationsFromAssembly"
+            //// it will add all config files in the project automatically using the .dll file // they all have the same Assembly
+            //modelBuilder.ApplyConfigurationsFromAssembly(typeof(StudentConfig).Assembly); 
 
             base.OnModelCreating(modelBuilder);
 

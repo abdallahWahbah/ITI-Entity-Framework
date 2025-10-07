@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _02_entities_to_DB.Models
 {
-    internal class Course
+    public class Course
     {
         public int CrsId { get; set; }
         public string CrsName { get; set; }

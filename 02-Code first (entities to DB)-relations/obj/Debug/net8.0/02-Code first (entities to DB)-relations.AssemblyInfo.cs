@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02-Code first (entities to DB)-relations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70324db52152e89232285fca8c29073a7b050b06")]
 [assembly: System.Reflection.AssemblyProductAttribute("02-Code first (entities to DB)-relations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02-Code first (entities to DB)-relations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
