@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Migrations\\20251006211114_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03-Lab\\Migrations\\20251006211114_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8752CEB-8DB0-42AB-8FD3-5A0D37BEBB46}|03-Lab\\03-Lab.csproj|c:\\users\\abdow\\onedrive\\desktop\\projects\\5-entity framework\\03-lab\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8752CEB-8DB0-42AB-8FD3-5A0D37BEBB46}|03-Lab\\03-Lab.csproj|solutionrelative:03-lab\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 182,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "03-Lab\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "03-Lab\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:10:24.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251006211114_done.cs",
+              "DocumentMoniker": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Migrations\\20251006211114_done.cs",
+              "RelativeDocumentMoniker": "03-Lab\\Migrations\\20251006211114_done.cs",
+              "ToolTip": "C:\\Users\\abdow\\OneDrive\\Desktop\\projects\\5-Entity Framework\\03-Lab\\Migrations\\20251006211114_done.cs",
+              "RelativeToolTip": "03-Lab\\Migrations\\20251006211114_done.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:11:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
